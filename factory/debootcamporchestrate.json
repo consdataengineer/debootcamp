@@ -1,0 +1,9 @@
+{
+	"name": "debootcamporchestrate",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d174113f-fdcf-44d6-9fe2-386e00ec2be2",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}
